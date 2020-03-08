@@ -4,8 +4,7 @@ def my_find(collection)
       yield(collection[i])
        i += 1
     end
-   
+   collection
   end
-collection
-end
+
 
