@@ -1,4 +1,7 @@
 def my_each(array)
-  arr
-  # code here
+  new_array=[]
+  greetings = array.size
+  
+  while new_array < greetings
+  ""
 end
