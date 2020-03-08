@@ -9,4 +9,3 @@ def my_find(collection)
 collection
 end
 
-my_find(collection)
