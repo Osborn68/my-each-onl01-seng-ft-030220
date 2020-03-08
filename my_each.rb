@@ -1,4 +1,4 @@
-
+numbers = [1,2,3,4,5,6]
 def my_find(collection)
   i=0
   while i < collection.length
