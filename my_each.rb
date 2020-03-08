@@ -6,6 +6,7 @@ def my_find(collection)
     end
     i += 1
   end
+collection
 end
 
 nums = (1..100).to_a
