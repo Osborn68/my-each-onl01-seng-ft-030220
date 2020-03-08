@@ -9,5 +9,4 @@ def my_find(collection)
 collection
 end
 
-nums = (1..100).to_a
 my_find(collection)
