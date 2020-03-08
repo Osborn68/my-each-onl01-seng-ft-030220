@@ -1,5 +1,5 @@
 numbers = [1,2,3,4,5,6]
-def my_find(collection)
+def my_each(collection)
   i=0
   while i < collection.length
     yield(collection[i])
