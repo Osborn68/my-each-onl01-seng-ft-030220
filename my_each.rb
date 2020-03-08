@@ -9,4 +9,4 @@ def my_find(collection)
 end
 
 nums = (1..100).to_a
-my_find(nums){|i| i % 71 == 0}
+my_find(collection)
